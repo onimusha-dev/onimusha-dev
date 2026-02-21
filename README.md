@@ -1,10 +1,19 @@
 ##  <img src="https://cdn.discordapp.com/emojis/1316402413107941487.webp" width="24" height="24"/> おはようございます
 > I tell my computer to do hard things and sometime it does!   [:P](https://discord.gg/QcHQKYw2ex)
 
-<div style='display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; align-items: center;'>
-<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card"><img height="190" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=onimusha-dev&show_icons=true&custom_title=GitHub+Statistics&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card"><img width="345" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onimusha-dev&layout=compact&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a"/></a>
+<div align="center">
+  <!-- Row 1: GitHub Stats + Top Languages -->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=onimusha-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=onimusha-dev&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
+
+<br/>
+
+<div align="center">
+  <!-- Row 2:Streak -->
+  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=addynoven&theme=tokyonight&hide_border=true" />
+</div>
+<br/>
 
 
 ##  <img src="https://cdn.discordapp.com/emojis/1316402447035666433.webp" width="24" height="24"/> **“The Code That Glows”** 
