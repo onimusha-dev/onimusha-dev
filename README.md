@@ -11,7 +11,7 @@
 
 <div align="center">
   <!-- Row 2:Streak -->
-  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=addynoven&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=onimusha-dev&theme=tokyonight&hide_border=true" />
 </div>
 <br/>
 
