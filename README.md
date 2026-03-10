@@ -1,5 +1,5 @@
 ##  <img src="https://cdn.discordapp.com/emojis/1316402413107941487.webp" width="24" height="24"/> おはようございます
-> I tell my computer to do hard things and sometime it does!   [:P](https://discord.gg/QcHQKYw2ex)
+> I tell my computer to do hard things and sometime it does!   [:P](https://musha.vercel.app/)
 
 <div align="center">
   <!-- Row 1: GitHub Stats + Top Languages -->
